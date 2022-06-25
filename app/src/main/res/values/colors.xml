@@ -7,4 +7,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- base -->
+    <color name="alt_black">#1E1E24</color>
+
+    <color name="grey">#F5F5F5</color>
+
+    <!-- brand -->
+    <color name="primary">#3FC823</color>
+    <color name="primary_darker">#1D700C</color>
+
+    <color name="secondary">#A3D9FF</color>
+
+    <!-- system -->
+    <color name="destructive">#C03221</color>
+    <color name="destructive_darker">#892C21</color>
 </resources>
